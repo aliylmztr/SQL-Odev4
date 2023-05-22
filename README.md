@@ -15,6 +15,6 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 4- country tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
 
-5- city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
+5- city tablosundaki şehir isimlerinin kaç tanesi 'R' veya 'r' karakteri ile biter?
 
 Kolay Gelsin.
