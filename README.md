@@ -1,5 +1,5 @@
-# SQL-Odev4
-SQL-Odev4
+# SQL-Odev4 | DISTINCT ve COUNT
+SQL-Odev4 | DISTINCT ve COUNT
 
 www.patika.dev
 
